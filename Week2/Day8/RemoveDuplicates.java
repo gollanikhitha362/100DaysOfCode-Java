@@ -1,5 +1,4 @@
-package com.leetcode;
-
+import com.leetcode;
 public class RemoveDuplicates {
 	class Solution {
 	    public int removeDuplicates(int[] nums) {
