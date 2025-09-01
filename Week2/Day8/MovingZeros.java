@@ -1,5 +1,4 @@
-package com.leetcode;
-
+import com.leetcode;
 public class MovingZeros {
 	public void moveZeroes(int[] nums) {
 	       int slow = 0;
